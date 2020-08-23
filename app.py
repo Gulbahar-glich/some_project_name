@@ -1,4 +1,4 @@
 def printing(message):
-    print(message)
+    print(message+str(1))
 
 printing(message)
